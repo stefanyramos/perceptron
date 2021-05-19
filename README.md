@@ -1,2 +1,2 @@
-# perceptron
-Simple perceptron in python
+# Perceptron
+Perceptron simplem em python 3.9
